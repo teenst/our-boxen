@@ -37,29 +37,28 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-# ---auto update---
-github "osx",            "1.6.0"
+
+github "osx",         "1.6.0"
 
 # lib
 github "wget",        "1.0.0" # via homebrew
 github "zsh",         "1.0.0" # via homebrew
+github "xquartz",     "1.0.0"
 
 # local application for develop
 github "iterm2",      "1.0.3"
 github "virtualbox",  "1.0.7"
 github "hipchat",     "1.0.8"
-github "intellij", "1.4.0"
-github "sourcetree",  "1.0.0"
-github "java",	      "1.1.2"
+
 
 ## apps
 github "dropbox",     "1.1.2"
 github "flux",        "1.0.0"
-github "chrome",      "1.1.1"
+github "chrome",      "1.1.0"
 github "firefox",     "1.1.4"
 github "skype",       "1.0.6"
 github "alfred",      "1.1.6"
 github "appcleaner",  "1.0.0"
 github "keyremap4macbook", "1.0.8"
-github "istatmenus4", "1.0.0"
-# ---/auto update---
+github "sourcetree",  "1.0.0"
+
