@@ -38,28 +38,30 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 # ---auto update---
-github "osx",            "1.6.0"
+github "osx",            "2.0.0"
 
 # lib
-github "wget",        "1.0.0" # via homebrew
-github "zsh",         "1.0.0" # via homebrew
+github "wget",       "1.0.0" # via homebrew
+github "zsh",        "1.0.0" # via homebrew
 
 # local application for develop
-github "iterm2",      "1.0.3"
-github "virtualbox",  "1.0.7"
-github "hipchat",     "1.0.8"
-github "intellij", "1.4.0"
-github "sourcetree",  "1.0.0"
-github "java",	      "1.1.2"
+github "iterm2",     "1.0.3"
+github "virtualbox", "1.0.9"
+github "hipchat",    "1.0.8"
+github "intellij",   "1.4.0"
+github "sourcetree", "1.0.0"
+github "java",       "1.1.2"
+github "vagrant",    "3.0.0"
+github "python",     "1.3.0", :repo => "teenst/puppet-python"
 
 ## apps
-github "dropbox",     "1.1.2"
-github "flux",        "1.0.0"
-github "chrome",      "1.1.1"
-github "firefox",     "1.1.4"
-github "skype",       "1.0.6"
-github "alfred",      "1.1.6"
-github "appcleaner",  "1.0.0"
+github "dropbox",    "1.1.2"
+github "flux",       "1.0.0"
+github "chrome",     "1.1.2"
+github "firefox",    "1.1.4"
+github "skype",      "1.0.6"
+github "alfred",     "1.1.6"
+github "appcleaner", "1.0.0"
 github "keyremap4macbook", "1.0.8"
-github "istatmenus4", "1.0.0"
+github "istatmenus4","1.0.0"
 # ---/auto update---
