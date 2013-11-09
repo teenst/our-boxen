@@ -71,7 +71,6 @@ github "intellij",   "1.4.0"
 github "sourcetree", "1.0.0"
 github "java",       "1.1.2"
 github "vagrant",    "3.0.0"
-github "python",     "1.3.0", :repo => "teenst/puppet-python"
 
 ## apps
 github "dropbox",    "1.1.2"
@@ -84,3 +83,5 @@ github "appcleaner", "1.0.0"
 github "keyremap4macbook", "1.0.8"
 github "istatmenus4","1.0.0"
 # ---/auto update---
+
+github "python",     "1.0.2", :repo => "teenst/puppet-python"
