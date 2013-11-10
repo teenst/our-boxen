@@ -92,8 +92,7 @@ class people::teenst {
                         '--cocoa',
                         ],
   }
-
-
+  
   # # local application
   # package {
   #   'limechat':
