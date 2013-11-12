@@ -22,14 +22,12 @@ class people::teenst {
   # lib
   include wget
   include java
-  include python::2_7_5
+  include python::2_7_6
   include python::3_3_2
   ## Install a Python package
   python::package { 'virtualenv':
-    python_version => '2.7.5',
+    python_version => '2.7.6',
   }
-  ## Set the global version of Python
-  class { 'python::global': version => '2.7.5' }
 
 
   # local application for develop
