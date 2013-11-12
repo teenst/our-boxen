@@ -64,7 +64,7 @@ github "wget",       "1.0.0" # via homebrew
 github "zsh",        "1.0.0" # via homebrew
 
 # local application for develop
-github "iterm2",     "1.0.3"
+github "iterm2",     "1.0.4"
 github "virtualbox", "1.0.9"
 github "hipchat",    "1.0.8"
 github "intellij",   "1.4.0"
@@ -84,4 +84,4 @@ github "keyremap4macbook", "1.0.8"
 github "istatmenus4","1.0.0"
 # ---/auto update---
 
-github "python",     "1.0.2", :repo => "teenst/puppet-python"
+github "python",     "1.0.3", :repo => "teenst/puppet-python"
