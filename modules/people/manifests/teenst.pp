@@ -54,6 +54,9 @@ class people::teenst {
   include firefox
   include chrome
   include istatmenus4
+  include evernote
+  include mplayerx
+  include skitch
 
 
   # via homebrew
