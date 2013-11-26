@@ -1,7 +1,7 @@
 GITHUBTARBALL
   remote: boxen/puppet-alfred
   specs:
-    alfred (1.1.6)
+    alfred (1.1.7)
 
 GITHUBTARBALL
   remote: boxen/puppet-appcleaner
@@ -126,7 +126,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-osx
   specs:
-    osx (2.0.0)
+    osx (2.2.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-phantomjs
@@ -156,7 +156,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-skype
   specs:
-    skype (1.0.6)
+    skype (1.0.7)
 
 GITHUBTARBALL
   remote: boxen/puppet-sourcetree
@@ -209,7 +209,7 @@ GITHUBTARBALL
     python (1.0.4)
 
 DEPENDENCIES
-  alfred (= 1.1.6)
+  alfred (= 1.1.7)
   appcleaner (= 1.0.0)
   boxen (= 3.3.4)
   chrome (= 1.1.2)
@@ -235,14 +235,14 @@ DEPENDENCIES
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
   openssl (= 1.0.0)
-  osx (= 2.0.0)
+  osx (= 2.2.0)
   phantomjs (= 2.0.2)
   pkgconfig (= 1.0.0)
   python (= 1.0.4)
   repository (= 2.2.0)
   ruby (= 6.7.2)
   skitch (= 1.0.2)
-  skype (= 1.0.6)
+  skype (= 1.0.7)
   sourcetree (= 1.0.0)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)

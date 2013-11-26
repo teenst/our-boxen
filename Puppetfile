@@ -57,7 +57,7 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 # ---auto update---
-github "osx",            "2.0.0"
+github "osx",            "2.2.0"
 
 # lib
 github "wget",       "1.0.0" # via homebrew
@@ -77,8 +77,8 @@ github "dropbox",    "1.1.2"
 github "flux",       "1.0.0"
 github "chrome",     "1.1.2"
 github "firefox",    "1.1.5"
-github "skype",      "1.0.6"
-github "alfred",     "1.1.6"
+github "skype",      "1.0.7"
+github "alfred",     "1.1.7"
 github "appcleaner", "1.0.0"
 github "keyremap4macbook", "1.0.8"
 github "istatmenus4","1.0.0"
