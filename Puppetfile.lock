@@ -141,7 +141,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
-    ruby (6.7.2)
+    ruby (6.7.6)
 
 GITHUBTARBALL
   remote: boxen/puppet-skitch
@@ -240,7 +240,7 @@ DEPENDENCIES
   pkgconfig (= 1.0.0)
   python (= 1.0.2)
   repository (= 2.2.0)
-  ruby (= 6.7.2)
+  ruby (= 6.7.6)
   skitch (= 1.0.2)
   skype (= 1.0.7)
   sourcetree (= 1.0.0)
