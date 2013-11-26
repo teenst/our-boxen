@@ -22,11 +22,11 @@ class people::teenst {
   # lib
   include wget
   include java
-  include python::2_7_6
-  include python::3_3_2
+  include python::2_7_5
+  include python::3_3_0
   ## Install a Python package
   python::package { 'virtualenv':
-    python_version => '2.7.6',
+    python_version => '2.7.5',
   }
 
 

@@ -82,9 +82,9 @@ github "alfred",     "1.1.7"
 github "appcleaner", "1.0.0"
 github "keyremap4macbook", "1.0.8"
 github "istatmenus4","1.0.0"
-github "evernote",   "2.0.4"
 github "mplayerx",   "1.0.1"
 github "skitch",     "1.0.2"
 # ---/auto update---
 
-github "python",     "1.0.4", :repo => "teenst/puppet-python"
+github "python",     "1.0.2", :repo => "teenst/puppet-python"
+github "evernote",   "2.0.5", :repo => "teenst/puppet-evernote"

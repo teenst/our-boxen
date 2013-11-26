@@ -29,11 +29,6 @@ GITHUBTARBALL
     dropbox (1.1.2)
 
 GITHUBTARBALL
-  remote: boxen/puppet-evernote
-  specs:
-    evernote (2.0.4)
-
-GITHUBTARBALL
   remote: boxen/puppet-firefox
   specs:
     firefox (1.1.5)
@@ -204,9 +199,14 @@ GITHUBTARBALL
     stdlib (4.1.0)
 
 GITHUBTARBALL
+  remote: teenst/puppet-evernote
+  specs:
+    evernote (2.0.5)
+
+GITHUBTARBALL
   remote: teenst/puppet-python
   specs:
-    python (1.0.4)
+    python (1.0.2)
 
 DEPENDENCIES
   alfred (= 1.1.7)
@@ -215,7 +215,7 @@ DEPENDENCIES
   chrome (= 1.1.2)
   dnsmasq (= 1.0.0)
   dropbox (= 1.1.2)
-  evernote (= 2.0.4)
+  evernote (= 2.0.5)
   firefox (= 1.1.5)
   flux (= 1.0.0)
   foreman (= 1.0.0)
@@ -238,7 +238,7 @@ DEPENDENCIES
   osx (= 2.2.0)
   phantomjs (= 2.0.2)
   pkgconfig (= 1.0.0)
-  python (= 1.0.4)
+  python (= 1.0.2)
   repository (= 2.2.0)
   ruby (= 6.7.2)
   skitch (= 1.0.2)
