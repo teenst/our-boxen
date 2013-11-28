@@ -85,6 +85,7 @@ class people::teenst {
      'tree',
      'testdisk',
      'sl',
+     'parallel'
      #'readline',
      ]:
   }
