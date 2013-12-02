@@ -57,6 +57,7 @@ class people::teenst {
   include evernote
   include mplayerx
   include skitch
+  include mou
 
 
   # via homebrew

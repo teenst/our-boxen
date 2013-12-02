@@ -84,7 +84,8 @@ github "keyremap4macbook", "1.0.8"
 github "istatmenus4","1.0.0"
 github "mplayerx",   "1.0.1"
 github "skitch",     "1.0.2"
+github "mou",        "1.1"
 # ---/auto update---
-
+github "property_list_key","0.1.0",:repo => "glarizza/puppet-property_list_key"
 github "python",     "1.0.2", :repo => "teenst/puppet-python"
 github "evernote",   "2.0.5", :repo => "teenst/puppet-evernote"
