@@ -57,7 +57,7 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 
 # ---auto update---
-github "osx",            "2.2.0"
+github "osx",            "2.2.1"
 
 # lib
 github "wget",       "1.0.0" # via homebrew
@@ -65,22 +65,22 @@ github "zsh",        "1.0.0" # via homebrew
 
 # local application for develop
 github "iterm2",     "1.0.4"
-github "virtualbox", "1.0.9"
-github "hipchat",    "1.0.8"
+github "virtualbox", "1.0.10"
+github "hipchat",    "1.1.0"
 github "intellij",   "1.4.0"
 github "sourcetree", "1.0.0"
-github "java",       "1.1.2"
-github "vagrant",    "3.0.0"
+github "java",       "1.2.0"
+github "vagrant",    "3.0.2"
 
 ## apps
-github "dropbox",    "1.1.2"
+github "dropbox",    "1.2.0"
 github "flux",       "1.0.0"
 github "chrome",     "1.1.2"
-github "firefox",    "1.1.5"
-github "skype",      "1.0.7"
+github "firefox",    "1.1.7"
+github "skype",      "1.0.8"
 github "alfred",     "1.1.7"
 github "appcleaner", "1.0.0"
-github "keyremap4macbook", "1.0.8"
+github "keyremap4macbook", "1.2.1"
 github "istatmenus4","1.0.0"
 github "mplayerx",   "1.0.1"
 github "skitch",     "1.0.2"
