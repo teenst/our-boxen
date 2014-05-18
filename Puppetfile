@@ -61,35 +61,36 @@ github "xquartz",     "1.1.1"
 # https://github.com/boxen.
 
 # ---auto update---
-github "osx",            "2.2.1"
+github "osx",            "2.5.0"
 
 # lib
-github "wget",       "1.0.0" # via homebrew
+github "wget",       "1.0.1" # via homebrew
 github "zsh",        "1.0.0" # via homebrew
 
 # local application for develop
 github "iterm2",     "1.0.4"
-github "virtualbox", "1.0.10"
-github "hipchat",    "1.1.0"
-github "intellij",   "1.4.0"
+github "virtualbox", "1.0.11"
+github "intellij",   "1.5.1"
 github "sourcetree", "1.0.0"
-github "java",       "1.2.0"
-github "vagrant",    "3.0.2"
+github "java",       "1.5.0"
+github "vagrant",    "3.0.9"
 
 ## apps
 github "dropbox",    "1.2.0"
-github "flux",       "1.0.0"
+github "flux",       "1.0.1"
 github "chrome",     "1.1.2"
-github "firefox",    "1.1.7"
+github "firefox",    "1.2.0"
 github "skype",      "1.0.8"
 github "alfred",     "1.1.7"
 github "appcleaner", "1.0.0"
-github "keyremap4macbook", "1.2.1"
-github "istatmenus4","1.0.0"
-github "mplayerx",   "1.0.1"
+github "keyremap4macbook", "1.2.2"
+github "istatmenus4","1.1.0"
+github "mplayerx",   "1.0.2"
 github "skitch",     "1.0.2"
 github "mou",        "1.1"
+github "evernote",   "2.0.6"
+
 # ---/auto update---
-github "property_list_key","0.1.0",:repo => "glarizza/puppet-property_list_key"
-github "python",     "1.0.2", :repo => "teenst/puppet-python"
-github "evernote",   "2.0.5", :repo => "teenst/puppet-evernote"
+github "property_list_key","0.2.0",:repo => "glarizza/puppet-property_list_key"
+github "python",     "2.0.1", :repo => "mloberg/puppet-python"
+

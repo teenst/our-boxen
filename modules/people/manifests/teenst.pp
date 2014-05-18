@@ -22,12 +22,27 @@ class people::teenst {
   # lib
   include wget
   include java
-  include python::2_7_5
-  include python::3_3_0
-  ## Install a Python package
-  python::package { 'virtualenv':
-    python_version => '2.7.5',
+
+  # Install Python versions
+  python::version { '2.7.6': }
+  python::version { '3.3.3': }
+  # Set the global version of Python
+  class { 'python::global':
+    version => '2.7.6'
   }
+  ## Install the latest version of virutalenv
+  $version = '3.3.3'
+  python::package { "virtualenv for ${version}":
+    package => 'virtualenv',
+    python  => $version,
+  }
+
+  ## Installing a pyenv plugin
+  python::plugin { 'pyenv-virtualenvwrapper':
+    ensure => 'v20140122',
+    source => 'yyuu/pyenv-virtualenvwrapper',
+  }
+
 
 
   # local application for develop
@@ -86,7 +101,7 @@ class people::teenst {
      'tree',
      'testdisk',
      'sl',
-     'parallel'
+     'parallel',
      #'readline',
      ]:
   }
